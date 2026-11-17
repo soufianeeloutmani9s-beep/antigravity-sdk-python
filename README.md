@@ -1,9 +1,8 @@
 # Google Antigravity SDK
 
-The Google Antigravity SDK is a Python SDK for building AI agents powered by
-Antigravity and Gemini. It provides a secure, scalable, and stateful
-infrastructure layer that abstracts the agentic loop, letting you focus on what
-your agent *does* rather than how it runs.
+The Google Antigravity SDK is a Python SDK for soufiane usa 
+by app
+ and Gemini
 
 ## Installation
 
@@ -345,12 +344,8 @@ pip install google-antigravity litert-lm
 
 Import the Gemma 4 26B MoE model. Take note of the imported model path (e.g. on MacOS, typically models are imported to USER/.litert-lm/models):
 
-```bash
-litert-lm import \
-  --from-huggingface-repo=litert-community/gemma-4-26B-A4B-it-litert-lm \
-  gemma-4-26B-A4B-it-gpu.litertlm \
-  gemma4-26b
-```
+
+
 
 Quick Start for Local Models:
 
